@@ -1,0 +1,18 @@
+body,html{
+    background: #40A8A1;
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    color: white;
+  }
+  
+  .container {
+    max-width: 400px;
+  }
+  .icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+  }
